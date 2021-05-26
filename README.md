@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me zafersiark@gmail.com
 
-
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=CerenBdk.visitor-badge)](https://GitHub.com/siarkonyar/StrapDown.js/stargazers/)
 <br>
 
 #### OS
