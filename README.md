@@ -25,5 +25,3 @@
 
 <a href="mailto:zafersiark@gmail.com" target="_blank" rel="nofollow"><img alt="Siar's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/zafer-şiar-konyar-7783b01bb/" target="_blank" rel="nofollow"><img alt="Siar's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-# podsjvdopf
