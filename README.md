@@ -6,8 +6,8 @@
 - 📫 How to reach me zafersiark@gmail.com
 
 #### OS
-<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social" style="height: 28px;"/>
+<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MacOS X-black?style=for-the-badge&logo=MAcOS&logoColor=white"></img>
 
 #### 💻 Languages
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
