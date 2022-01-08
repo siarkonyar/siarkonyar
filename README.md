@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Zafer Şiar Konyar
 - :mortar_board: I'm studying Computer Engineering at Istanbul Bilgi University with full OSYM scholarship
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me zafersiark@gmail.com
+- 📫 How to reach me siar.konyar@bilgiedu.net
 
 #### OS
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white"></img>
