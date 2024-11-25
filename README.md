@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Siar</h1>
 
 - 👋 Hi, I’m Zafer Şiar Konyar
-- :mortar_board: I'm studying Computer Engineering at Istanbul Bilgi University with full OSYM scholarship
+- :mortar_board: I'm studying Computer Science at University of Greenwich
 <!-- - 🌱 I’m currently learning Flutter -->
 - 📫 How to reach me siarkonyar@gmail.com
 
