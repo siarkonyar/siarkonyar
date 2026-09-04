@@ -1,91 +1,81 @@
-<div align="center">
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,45:7aa2f7,100:bb9af7&height=170&section=header&text=Zafer%20%C5%9Eiar%20Konyar&fontSize=40&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI%20Engineering&descSize=15&descAlignY=54)
 
-<img src="https://media.tenor.com/AlUkiGkR2j8AAAAd/new-game-ahagon-umiko-programming.gif" width="440" alt="anime girl coding at a multi-monitor setup" />
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&width=620&lines=BSc+Computer+Science+%E2%80%94+First-Class+Honours;Two+apps+live+on+the+App+Store;Building+AI+agents+with+Gemini+%2B+Genkit;Now+at+Kuro+Data+AI+%E2%80%94+Python+%2F+Docker+%2F+CI-CD)
 
-# Zafer Şiar Konyar
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=7aa2f7)](https://siarkonyar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siarkonyar)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siarkonyar@gmail.com)
+![visitors](https://komarev.com/ghpvc/?username=siarkonyar&style=for-the-badge&color=bb9af7&label=VISITORS)
 
-**`full-stack`** · **`mobile`** · **`ai agents`**
+## `>` whoami
 
-Computer Science at the University of Greenwich — First-Class Honours.
-Two apps on the App Store. Currently at **Kuro Data AI**, London.
+<img align="right" width="150" src="https://media.tenor.com/2PB70c2DvQkAAAAM/lucky-star-anime.gif" alt="anime girl hammering a keyboard" />
 
-[![Portfolio](https://img.shields.io/badge/siarkonyar.com-cba6f7?style=for-the-badge&logo=vercel&logoColor=1e1e2e&labelColor=1e1e2e)](https://siarkonyar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e&labelColor=1e1e2e)](https://www.linkedin.com/in/siarkonyar)
-[![Mail](https://img.shields.io/badge/Mail-f5c2e7?style=for-the-badge&logo=maildotru&logoColor=1e1e2e&labelColor=1e1e2e)](mailto:siarkonyar@gmail.com)
+**Siar** — Computer Science at the University of Greenwich, First-Class Honours, based in London and currently interning at **Kuro Data AI**.
 
-</div>
+I like problems where the hard part is **enforcement**, not the UI: an AI coach that can only answer from your real training data, a focus app you genuinely can't argue your way past, a batcher that has to be cheap on-chain or it's pointless.
 
----
-
-## `~` whoami
-
-<img align="right" width="215" src="https://media.tenor.com/2PB70c2DvQkAAAAM/lucky-star-anime.gif" alt="anime girl hammering a keyboard" />
-
-I like problems where the hard part is **enforcement**, not the UI — an AI coach that can only answer
-from your real training data, a focus app you genuinely cannot argue your way past, a batcher that has
-to be cheap on-chain or it's pointless.
-
-Mostly TypeScript and Python these days, Swift when the OS won't cooperate any other way.
-Happy to talk mobile, agents, or gas-golfed Solidity.
+- 🏋️ Building **[Hercule](https://gethercule.app)** — App Store fitness tracker with an **AI Coach** in public beta
+- 🔒 And **[A Way Out](https://awayout.app)** — focus app that locks distractions behind a physical **NFC tag**
+- 🐍 Learning data & AI engineering — Python, containerisation, CI/CD
+- 📫 Up for talking mobile, agents, or gas-golfed Solidity → [siarkonyar@gmail.com](mailto:siarkonyar@gmail.com)
 
 <br clear="right" />
 
-## `~` shipped
+## `>` stack
 
-| | project | stack | the interesting bit |
-|:--|:--|:--|:--|
-| 🏋️ | **[Hercule](https://gethercule.app)** | Expo · TS · Firebase · Gemini | App Store fitness tracker with an AI Coach in public beta — a server-side agent that calls **typed tools**, so it answers from your actual history instead of hallucinating. Validated 7-day programs, per-user quotas, and I ran the release pipeline solo. |
-| 🔒 | **[A Way Out](https://awayout.app)** | Swift · Screen Time API · Core NFC | Blocking enforced at OS level and unlocked by a **physical NFC tag**. No settings menu to talk your way out of. |
-| ⛓️ | **[Gas-Optimised Batcher](https://github.com/siarkonyar/GasOptimizedBatcher)** | Solidity | Final-year project: cuts the carbon cost of crypto transactions via batching + scheduling. |
-| 📦 | **[Gümrük Beyan Tara](https://gumrukbeyantara.com)** | TypeScript · Python | Customs declaration parser, used daily at IKRA Logistics. |
-| 🌐 | **[Distributed Chat](https://github.com/siarkonyar/network-distributed-system)** | Java · WebSockets | Real-time chat with coordinator-reassignment logic and 50+ unit tests. |
-| 🗓️ | **[Event Manager](https://github.com/siarkonyar/event-planner)** | Java · JDBC · SQLite | Team-built desktop scheduler on the repository pattern. |
-
-## `~` stack
-
-<img align="right" width="215" src="https://media.tenor.com/8ZoT0qQEjbcAAAAM/dragon-maid-thumbs-up.gif" alt="anime girl giving a thumbs up" />
-
-![](https://skillicons.dev/icons?i=ts,python,swift,java,solidity&theme=dark)
-<br>
-![](https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind,prisma&theme=dark)
-<br>
-![](https://skillicons.dev/icons?i=postgres,firebase,docker,git,azure,vercel&theme=dark)
+![languages](https://skillicons.dev/icons?i=ts,js,python,java,swift,solidity&theme=dark)
+![frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,tailwind,prisma&theme=dark)
+![tools](https://skillicons.dev/icons?i=postgres,firebase,docker,git,azure,vercel&theme=dark)
 
 <sub>Also daily: Expo · EAS · Genkit + Gemini · dbt · App Store Connect · Screen Time API</sub>
 
-<br clear="right" />
+## `>` shipped
 
-## `~` log
+<img align="right" width="150" src="https://media.tenor.com/HNv_I0g5-10AAAAM/komi-san-komi-shouko.gif" alt="anime girl studying at a desk at night" />
 
-<img align="right" width="215" src="https://media.tenor.com/HNv_I0g5-10AAAAM/komi-san-komi-shouko.gif" alt="anime girl studying at a desk at night" />
+🏋️ **[Hercule](https://gethercule.app)** · `Expo` `TypeScript` `Firebase` `Gemini` — fitness tracker with an in-app AI gym companion. Server-side agent calling **typed tools**, so it answers from your actual history instead of hallucinating. Validated 7-day programs, per-user quotas, and I ran the whole release pipeline.
 
-**Kuro Data AI** — London · *Aug 2026 → now*
-Data/AI engineering under a curriculum set by the founder. Weekly tasks, real code review. `Python` `Docker` `CI/CD`
+🔒 **[A Way Out](https://awayout.app)** · `Swift` `Screen Time API` `Core NFC` — blocking enforced at OS level, unlocked by tapping a physical tag. There's no settings menu to talk your way out of.
 
-**Mirako** — Remote · *Apr → Sep 2025*
-Expo apps in a shared monorepo, EAS builds, iOS releases. `React Native` `TypeScript`
-
-**Erguvan** — Remote · *Apr → Sep 2024*
-Carbon/REC trading and ESG platform on the T3 stack. `Next.js` `Prisma` `TypeScript`
+⛓️ **[Gas-Optimised Batcher](https://github.com/siarkonyar/GasOptimizedBatcher)** · `Solidity` — final-year project cutting the carbon footprint of crypto transactions through batching and scheduling.
 
 <br clear="right" />
 
-## `~` numbers
+📦 **[Gümrük Beyan Tara](https://gumrukbeyantara.com)** · `TypeScript` `Python` — customs declaration parser, used daily at IKRA Logistics.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siarkonyar&theme=nord_dark" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siarkonyar&theme=nord_dark" height="180" />
+🌐 **[Network Distributed System](https://github.com/siarkonyar/network-distributed-system)** · `Java` `WebSockets` — real-time chat with coordinator-reassignment logic and 50+ unit tests.
 
----
+🗓️ **[Event Manager](https://github.com/siarkonyar/event-planner)** · `Java` `JDBC` `SQLite` — team-built desktop scheduler on the repository pattern.
 
-<div align="center">
+## `>` experience
 
-<img width="215" src="https://media.tenor.com/9aXyxmnYW7oAAAAM/my-dress-up-darling-sono-bisque-doll-wa-koi-wo-suru.gif" alt="anime girl waving happily" />
+<img align="right" width="160" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="anime girl coding at a multi-monitor setup" />
 
-### `~` say hi
+**Aug 2026 – now** · **Kuro Data AI**, London — Intern. Data/AI engineering curriculum set by the founder, weekly tasks and code review. `Python` `Docker` `CI/CD`
 
-[![siarkonyar@gmail.com](https://img.shields.io/badge/siarkonyar@gmail.com-f5c2e7?style=for-the-badge&logo=maildotru&logoColor=1e1e2e&labelColor=1e1e2e)](mailto:siarkonyar@gmail.com)
-[![in/siarkonyar](https://img.shields.io/badge/in%2Fsiarkonyar-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e&labelColor=1e1e2e)](https://www.linkedin.com/in/siarkonyar)
+**Apr – Sep 2025** · **Mirako**, Remote — Mobile App Developer Intern. Expo apps in a shared monorepo, EAS builds, iOS releases. `React Native` `TypeScript`
 
-<sub>*thanks for scrolling — now go touch some grass* 🌱</sub>
+**Apr – Sep 2024** · **Erguvan**, Remote — Software Developer Intern. Carbon/REC trading and ESG platform on the T3 stack. `Next.js` `Prisma` `TypeScript`
 
-</div>
+**2023 – 2026** · **University of Greenwich** — BSc Computer Science, First-Class Honours
+
+<br clear="right" />
+
+## `>` the report
+
+![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siarkonyar&theme=tokyonight)
+
+## `>` say hi
+
+<img align="right" width="140" src="https://media.tenor.com/9aXyxmnYW7oAAAAM/my-dress-up-darling-sono-bisque-doll-wa-koi-wo-suru.gif" alt="anime girl waving happily" />
+
+[![siarkonyar@gmail.com](https://img.shields.io/badge/siarkonyar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siarkonyar@gmail.com)
+[![in/siarkonyar](https://img.shields.io/badge/in%2Fsiarkonyar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siarkonyar)
+[![siarkonyar.com](https://img.shields.io/badge/siarkonyar.com-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7)](https://siarkonyar.com)
+
+*thanks for scrolling — go touch some grass* 🌱
+
+<br clear="right" />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,55:7aa2f7,100:1a1b26&height=110&section=footer)
