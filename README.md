@@ -15,20 +15,9 @@ Two apps on the App Store. Currently at **Kuro Data AI**, London.
 
 ---
 
-## `~` whoami
+## `~` shipped
 
 <img align="right" width="215" src="https://media.tenor.com/2PB70c2DvQkAAAAM/lucky-star-anime.gif" alt="anime girl hammering a keyboard" />
-
-I like problems where the hard part is **enforcement**, not the UI — an AI coach that can only answer
-from your real training data, a focus app you genuinely cannot argue your way past, a batcher that has
-to be cheap on-chain or it's pointless.
-
-Mostly TypeScript and Python these days, Swift when the OS won't cooperate any other way.
-Happy to talk mobile, agents, or gas-golfed Solidity.
-
-<br clear="right" />
-
-## `~` shipped
 
 🏋️ **[Hercule](https://gethercule.app)** · `Expo` `TypeScript` `Firebase` `Gemini`
 App Store fitness tracker with an **AI Coach** in public beta — a server-side agent that calls typed tools, so it answers from your actual training history instead of hallucinating. Validated 7-day programs, per-user quotas, and I ran the release pipeline solo.
@@ -47,6 +36,8 @@ Real-time chat with coordinator-reassignment logic and 50+ unit tests.
 
 🗓️ **[Event Manager](https://github.com/siarkonyar/event-planner)** · `Java` `JDBC` `SQLite`
 Team-built desktop scheduler on the repository pattern.
+
+<br clear="right" />
 
 ## `~` stack
 
