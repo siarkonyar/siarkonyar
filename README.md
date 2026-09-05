@@ -74,6 +74,6 @@ Carbon/REC trading and ESG platform on the T3 stack. `Next.js` `Prisma` `TypeScr
 [![siarkonyar@gmail.com](https://img.shields.io/badge/siarkonyar@gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:siarkonyar@gmail.com)
 [![in/siarkonyar](https://img.shields.io/badge/in%2Fsiarkonyar-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/siarkonyar)
 
-<sub>*thanks for scrolling — now go touch some grass* 🌱</sub>
+<sub>🌱</sub>
 
 </div>
