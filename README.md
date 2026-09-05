@@ -15,7 +15,7 @@ Two apps on the App Store. Currently at **Kuro Data AI**, London.
 
 ---
 
-## `~` shipped
+## `~` shipped projects
 
 <img align="right" width="215" src="https://media.tenor.com/2PB70c2DvQkAAAAM/lucky-star-anime.gif" alt="anime girl hammering a keyboard" />
 
@@ -27,15 +27,6 @@ Blocking enforced at OS level and unlocked by a **physical NFC tag**. There's no
 
 ⛓️ **[Gas-Optimised Batcher](https://github.com/siarkonyar/GasOptimizedBatcher)** · `Solidity`
 Final-year project — cuts the carbon cost of crypto transactions through batching and scheduling.
-
-📦 **[Gümrük Beyan Tara](https://gumrukbeyantara.com)** · `TypeScript` `Python`
-Customs declaration parser, used daily at IKRA Logistics.
-
-🌐 **[Distributed Chat](https://github.com/siarkonyar/network-distributed-system)** · `Java` `WebSockets`
-Real-time chat with coordinator-reassignment logic and 50+ unit tests.
-
-🗓️ **[Event Manager](https://github.com/siarkonyar/event-planner)** · `Java` `JDBC` `SQLite`
-Team-built desktop scheduler on the repository pattern.
 
 <br clear="right" />
 
@@ -53,7 +44,7 @@ Team-built desktop scheduler on the repository pattern.
 
 <br clear="right" />
 
-## `~` log
+## `~` experience
 
 <img align="right" width="215" src="https://media.tenor.com/HNv_I0g5-10AAAAM/komi-san-komi-shouko.gif" alt="anime girl studying at a desk at night" />
 
@@ -68,7 +59,7 @@ Carbon/REC trading and ESG platform on the T3 stack. `Next.js` `Prisma` `TypeScr
 
 <br clear="right" />
 
-## `~` numbers
+## `~` stats
 
 ![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siarkonyar&theme=tokyonight)
 
