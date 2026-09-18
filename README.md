@@ -17,7 +17,7 @@ Two apps on the App Store. Currently at **Kuro Data AI**, London.
 
 ## `~` shipped projects
 
-<img align="right" width="215" src="https://media.tenor.com/2PB70c2DvQkAAAAM/lucky-star-anime.gif" alt="anime girl hammering a keyboard" />
+<img align="right" width="215" src="https://media.tenor.com/AlUkiGkR2j8AAAAd/new-game-ahagon-umiko-programming.gif" alt="anime girl coding at a multi-monitor setup" />
 
 🏋️ **[Hercule](https://gethercule.app)** · `Expo` `TypeScript` `Firebase` `Gemini`
 App Store fitness tracker with an **AI Coach** in public beta — a server-side agent that calls typed tools, so it answers from your actual training history instead of hallucinating. Validated 7-day programs, per-user quotas, and I ran the release pipeline solo.
@@ -32,7 +32,7 @@ Final-year project — cuts the carbon cost of crypto transactions through batch
 
 ## `~` stack
 
-<img align="right" width="215" src="https://media.tenor.com/AlUkiGkR2j8AAAAd/new-game-ahagon-umiko-programming.gif" alt="anime girl coding at a multi-monitor setup" />
+<img align="right" width="215" src="https://media.tenor.com/2PB70c2DvQkAAAAM/lucky-star-anime.gif" alt="anime girl hammering a keyboard" />
 
 ![](https://skillicons.dev/icons?i=ts,python,swift,java,solidity&theme=dark)
 <br>
